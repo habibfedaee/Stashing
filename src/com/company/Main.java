@@ -10,6 +10,10 @@ public class Main {
         audi.headlights= "led";
         audi.regNo="ca-habibi";
 
-
+        // lets write our own code
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHZ");
+        System.out.println("Turn on the Air conditioner");
+        
     }
 }
